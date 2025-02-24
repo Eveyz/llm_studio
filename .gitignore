@@ -19,6 +19,7 @@
 
 # production
 /build
+/src-tauri/.next/
 
 # misc
 .DS_Store
